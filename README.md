@@ -1,2 +1,2 @@
-# maxcorrclassifier
-Python implementation of maximum correlation classifier for neural decoding analysis
+# Maximum Correlation Classifier
+Python implementation of Maximum Correlation Classifier for Neural Decoding Analysis
